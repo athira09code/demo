@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390332b1-8aa3-4f2e-95f3-bf44aa026705" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/testing/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing/calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/testing" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Test" />
   </component>
   <component name="ProjectId" id="1bXOwum62ToDCLk0LzJlnSNV9cW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
